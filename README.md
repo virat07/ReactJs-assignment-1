@@ -1,2 +1,2 @@
-# ReactJs-assignment-1
-With single component
+# ReactJs-assignment2
+With double component
